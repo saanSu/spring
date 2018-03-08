@@ -15,7 +15,7 @@
 </style>
 </head>
 <body>
-	<h1>Project managed by GIT</h1>
+	<h1>프로젝트 - 깃으로 관리</h1>
 	<hr/>
 		<a href="/account/join.do">회원가입</a>
 	<h2>GIT 이란..?</h2>
