@@ -14,6 +14,9 @@
 <body>
 	<h1>Project managed by GIT</h1>
 	<hr/>
-		
+	<h2>GIT 이란..?</h2>
+	<p>
+		소스 코드 관리를 위한 분산 버전 관리 시스템이다.
+	</p>	
 </body>
 </html>
