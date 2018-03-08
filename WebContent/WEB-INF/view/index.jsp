@@ -9,11 +9,14 @@
 	body,h1 {
 		font-family: 궁서체;
 	}
+	h2 {
+		color:red;
+	}
 </style>
 </head>
 <body>
 	<h1>Project managed by GIT</h1>
 	<hr/>
-		
+	
 </body>
 </html>
